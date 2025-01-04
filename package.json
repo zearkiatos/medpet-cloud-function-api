@@ -1,0 +1,20 @@
+{
+  "name": "medpet-cloud-function-api",
+  "version": "1.0.0",
+  "description": "This is a cloud function ☁ in firebase 🔥 in order to upload images 🌆, documents 📄 video 🎥 and audio 🔊 inside the CDN (content delivery network) from medpet 🐕🐈🦜 whatsapp ✆ chatbot 🤖💬",
+  "main": "index.js",
+  "scripts": {
+    "deploy:functions": "firebase deploy --only functions",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Firebase",
+    "API",
+    "Storage",
+    "CDN",
+    "Bucks",
+    "JavaScript"
+  ],
+  "author": "Pedro Capriles <caprilespe@outlook.com>",
+  "license": "MIT"
+}
